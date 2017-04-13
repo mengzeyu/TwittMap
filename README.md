@@ -1,5 +1,4 @@
 # TwittMap
-NYU Tondon CS-GY9223 Cloud Computing Course Project
 
 ### Group member: Zeyu Meng(zm649) Bingxin Chen(bc1958) 
 
